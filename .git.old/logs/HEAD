@@ -1,0 +1,12 @@
+0000000000000000000000000000000000000000 2bacd006af7efb04194630ae3e4ee75220fb5dfc patryckLisboa <patryck-lisboa@hotmail.com> 1613490597 -0200	commit (initial): initial commit
+2bacd006af7efb04194630ae3e4ee75220fb5dfc 7962110f2cc919b5bde508f80c91a7aabaecb10d patryckLisboa <patryck-lisboa@hotmail.com> 1613492329 -0200	commit: Angular material instalado no projeto
+7962110f2cc919b5bde508f80c91a7aabaecb10d d094850108126910189a18de7493c7285eded94b patryckLisboa <patryck-lisboa@hotmail.com> 1613530906 -0200	commit: Implementando alguns componentes do angular material
+d094850108126910189a18de7493c7285eded94b dbfc3233f7a2b6c68632a71f9b841cc3b294d5bc patryckLisboa <patryck-lisboa@hotmail.com> 1613587992 -0200	commit: home implementado com rota
+dbfc3233f7a2b6c68632a71f9b841cc3b294d5bc f524c1eac3cb22d1f76d179c91892ce975b3f928 patryckLisboa <patryck-lisboa@hotmail.com> 1613954335 -0300	commit: Categoria-read implementado
+f524c1eac3cb22d1f76d179c91892ce975b3f928 b26ccf0467c90c6b724fdbeb754a66cb24840170 patryckLisboa <patryck-lisboa@hotmail.com> 1614454767 -0300	commit: Finalizando o método create
+b26ccf0467c90c6b724fdbeb754a66cb24840170 10fc5de1cb512808dc7f95cb422e998ec375b78a patryckLisboa <patryck-lisboa@hotmail.com> 1614537599 -0300	commit: Categoria delete implementada
+10fc5de1cb512808dc7f95cb422e998ec375b78a 0b7a50f14d50ecd2894678a4dd05ceeea4d737e6 patryckLisboa <patryck-lisboa@hotmail.com> 1614714323 -0300	commit: Update para categoria foi implementado
+0b7a50f14d50ecd2894678a4dd05ceeea4d737e6 5a42cc3eb7e81ce7158f32000c1aa4c813df3698 patryckLisboa <patryck-lisboa@hotmail.com> 1614793854 -0300	commit: leitura de todos os livros por categoria implementado
+5a42cc3eb7e81ce7158f32000c1aa4c813df3698 fb4d57a2cd460c9091f8928538112d262c06a8d9 patryckLisboa <patryck-lisboa@hotmail.com> 1614879266 -0300	commit: update para livro implementado
+fb4d57a2cd460c9091f8928538112d262c06a8d9 bc5778f401c27b4b6cfb28de439ce19e556d286b patryckLisboa <patryck-lisboa@hotmail.com> 1614881222 -0300	commit: delete para livro implementado
+bc5778f401c27b4b6cfb28de439ce19e556d286b cea5c160239dcfe740b2f82d622ce8101d708e7b patryckLisboa <patryck-lisboa@hotmail.com> 1614883430 -0300	commit: read para livro implementado
